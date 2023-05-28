@@ -1,0 +1,3 @@
+enable_critical: 143
+arrow_decrement: 0
+warg_can_falcon: yes

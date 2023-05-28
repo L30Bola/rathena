@@ -1,0 +1,13 @@
+max_aspd: 191
+max_third_aspd: 194
+max_extended_aspd: 194
+max_summoner_aspd: 194
+
+max_hp: 10000000
+max_sp: 10000000
+
+transcendent_status_points: 75
+
+show_hp_sp_drain: yes
+
+trait_points_job_change: 10

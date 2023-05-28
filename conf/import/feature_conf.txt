@@ -1,0 +1,2 @@
+feature.atcommand_suggestions: on
+feature.warp_suggestions: on

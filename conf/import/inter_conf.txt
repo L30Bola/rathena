@@ -1,0 +1,1 @@
+start_status_points: 50
