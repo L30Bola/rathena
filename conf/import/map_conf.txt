@@ -1,0 +1,1 @@
+motd_txt: conf/import/motd.txt

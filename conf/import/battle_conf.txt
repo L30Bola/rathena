@@ -3,6 +3,16 @@ enable_critical: 143
 arrow_decrement: 0
 warg_can_falcon: yes
 
+// drops
+item_rate_common: 1000
+item_rate_heal: 1000
+item_rate_use: 1000
+item_rate_equip: 1000
+item_rate_card: 1000
+item_rate_mvp: 1000
+item_rate_adddrop: 1000
+item_rate_treasure: 1000
+
 // exp
 base_exp_rate: 10000
 job_exp_rate: 10000
