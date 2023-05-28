@@ -1,3 +1,31 @@
+// battle
 enable_critical: 143
 arrow_decrement: 0
 warg_can_falcon: yes
+
+// exp
+base_exp_rate: 10000
+job_exp_rate: 10000
+mvp_exp_rate: 1000
+quest_exp_rate: 200
+disp_zeny: yes
+
+// feature
+feature.atcommand_suggestions: on
+feature.warp_suggestions: on
+
+// player
+max_aspd: 191
+max_third_aspd: 194
+max_extended_aspd: 194
+max_summoner_aspd: 194
+max_hp: 10000000
+max_sp: 10000000
+transcendent_status_points: 75
+show_hp_sp_drain: yes
+trait_points_job_change: 10
+
+// skill
+default_walk_delay: 150
+
+castrate_dex_scale: 160

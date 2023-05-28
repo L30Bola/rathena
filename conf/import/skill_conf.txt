@@ -1,3 +1,0 @@
-default_walk_delay: 150
-
-castrate_dex_scale: 160
